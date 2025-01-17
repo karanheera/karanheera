@@ -58,7 +58,7 @@ I specialize in:
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn**: [My LinkedIn Profile](https://github.com/karanheera/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/karanheera/)
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss all things Generative AI!
