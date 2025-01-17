@@ -35,15 +35,15 @@ I specialize in:
 
 1. **Text-to-Image Generator**
    - Built a pipeline using diffusion models to generate high-quality images from text prompts.
-   - [🔗 Repository Link](#) (Coming Soon)
+   - (Coming Soon)
 
 2. **AI-Powered Content Summarizer**
    - Developed an NLP-based tool for summarizing long-form articles with high accuracy.
-   - [🔗 Repository Link](#) (Coming Soon)
+   - (Coming Soon)
 
 3. **Generative AI for Video Synthesis**
    - Experimented with creating short videos from textual descriptions using generative AI frameworks.
-   - [🔗 Repository Link](#) (Coming Soon)
+   - (Coming Soon)
 
 ---
 
@@ -58,7 +58,6 @@ I specialize in:
 ## 🤝 Let’s Connect
 
 - **LinkedIn**: [My LinkedIn Profile](https://github.com/karanheera/)
-- **YouTube**: [My YouTube Channel](#)
-- **Instagram**: [My Instagram](#)
+
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss all things Generative AI!
