@@ -57,7 +57,7 @@ I specialize in:
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn**: [My LinkedIn Profile](#)
+- **LinkedIn**: [My LinkedIn Profile](https://github.com/karanheera/)
 - **YouTube**: [My YouTube Channel](#)
 - **Instagram**: [My Instagram](#)
 
