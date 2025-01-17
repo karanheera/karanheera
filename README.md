@@ -12,6 +12,7 @@ I specialize in:
 
 ### What drives me?
 ✨ **Curiosity**: I'm endlessly fascinated by how generative AI works and its potential to transform industries.
+
 ✨ **Impact**: I aim to solve real-world problems by applying innovative AI solutions, bridging the gap between cutting-edge research and practical applications.
 
 ---
